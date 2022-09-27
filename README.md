@@ -8,3 +8,4 @@
 5. Rock_Paper_Scissors
 6. Tic Tac Toe
 7. Tip_calculator
+8. Treasure Island
