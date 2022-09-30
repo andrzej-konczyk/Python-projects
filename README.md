@@ -9,3 +9,4 @@
 6. Tic Tac Toe
 7. Tip_calculator
 8. Treasure Island
+9. Password generator
