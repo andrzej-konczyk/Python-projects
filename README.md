@@ -10,3 +10,4 @@
 7. Tip_calculator
 8. Treasure Island
 9. Password generator
+10. Hangman
