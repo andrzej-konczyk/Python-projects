@@ -1,0 +1,254 @@
+,Unnamed: 0,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt
+0,0,2021-08-23,20:45,Serie A,Matchweek 1,Mon,Away,W,1,0,Sampdoria,1.2,1.6,50.0,5000.0,Davide Calabria,4-2-3-1,Marco Guida,Match Report,,11.0,4.0,19.7,0.0,0,0
+1,1,2021-08-29,20:45,Serie A,Matchweek 2,Sun,Home,W,4,1,Cagliari,2.9,0.7,57.0,31946.0,Davide Calabria,4-2-3-1,Marco Serra,Match Report,,17.0,4.0,19.0,1.0,1,1
+2,2,2021-09-12,18:00,Serie A,Matchweek 3,Sun,Home,W,2,0,Lazio,3.0,0.3,47.0,36207.0,Alessio Romagnoli,4-2-3-1,Daniele Chiffi,Match Report,,18.0,3.0,20.0,0.0,0,1
+3,3,2021-09-15,20:00,Champions Lg,Group stage,Wed,Away,L,2,3,eng Liverpool,1.6,2.5,40.0,51445.0,Davide Calabria,4-2-3-1,Szymon Marciniak,Match Report,,7.0,3.0,13.4,0.0,0,0
+4,4,2021-09-19,20:45,Serie A,Matchweek 4,Sun,Away,D,1,1,Juventus,1.0,1.2,56.0,18785.0,Alessio Romagnoli,4-2-3-1,Daniele Doveri,Match Report,,13.0,3.0,23.0,1.0,0,0
+5,5,2021-09-22,20:45,Serie A,Matchweek 5,Wed,Home,W,2,0,Venezia,1.8,1.0,66.0,26185.0,Alessio Romagnoli,4-2-3-1,Ivan Pezzuto,Match Report,,14.0,4.0,17.6,2.0,0,0
+6,6,2021-09-25,15:00,Serie A,Matchweek 6,Sat,Away,W,2,1,Spezia,1.6,1.1,63.0,3618.0,Alessio Romagnoli,4-2-3-1,Gianluca Manganiello,Match Report,,18.0,5.0,18.0,1.0,0,0
+7,7,2021-09-28,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,es Atlético Madrid,0.7,2.1,36.0,35374.0,Alessio Romagnoli,4-2-3-1,Cüneyt Çakιr,Match Report,,7.0,3.0,24.4,0.0,0,0
+8,8,2021-10-03,20:45,Serie A,Matchweek 7,Sun,Away,W,3,2,Atalanta,2.5,2.3,44.0,9363.0,Davide Calabria,4-2-3-1,Marco Di Bello,Match Report,,13.0,7.0,17.3,0.0,0,0
+9,9,2021-10-16,20:45,Serie A,Matchweek 8,Sat,Home,W,3,2,Hellas Verona,1.9,1.8,54.0,40128.0,Alessio Romagnoli,4-2-3-1,Alessandro Prontera,Match Report,,16.0,3.0,20.9,0.0,1,1
+10,10,2021-10-19,20:00,Champions Lg,Group stage,Tue,Away,L,0,1,pt Porto,0.2,1.1,48.0,32130.0,Davide Calabria,4-2-3-1,Felix Brych,Match Report,,4.0,1.0,26.6,2.0,0,0
+11,11,2021-10-23,20:45,Serie A,Matchweek 9,Sat,Away,W,4,2,Bologna,1.2,0.8,63.0,22167.0,Davide Calabria,4-2-3-1,Paolo Valeri,Match Report,,15.0,7.0,18.6,1.0,0,0
+12,12,2021-10-26,20:45,Serie A,Matchweek 10,Tue,Home,W,1,0,Torino,0.9,0.7,45.0,35929.0,Alessio Romagnoli,4-2-3-1,Gianluca Aureliano,Match Report,,10.0,2.0,21.2,0.0,0,0
+13,13,2021-10-31,20:45,Serie A,Matchweek 11,Sun,Away,W,2,1,Roma,1.9,1.7,50.0,51001.0,Davide Calabria,4-2-3-1,Fabio Maresca,Match Report,,7.0,2.0,19.9,2.0,1,1
+14,14,2021-11-03,18:45,Champions Lg,Group stage,Wed,Home,D,1,1,pt Porto,0.6,1.8,52.0,39675.0,Alessio Romagnoli,4-2-3-1,Clément Turpin,Match Report,,8.0,2.0,17.9,2.0,0,0
+15,15,2021-11-07,20:45,Serie A,Matchweek 12,Sun,Home,D,1,1,Inter,1.2,2.7,50.0,56608.0,Simon Kjær,4-2-3-1,Daniele Doveri,Match Report,,16.0,4.0,18.9,1.0,0,0
+16,16,2021-11-20,20:45,Serie A,Matchweek 13,Sat,Away,L,3,4,Fiorentina,2.2,1.3,55.0,32567.0,Franck Kessié,4-2-3-1,Marco Guida,Match Report,,17.0,7.0,15.6,0.0,0,0
+17,17,2021-11-24,21:00,Champions Lg,Group stage,Wed,Away,W,1,0,es Atlético Madrid,1.3,0.9,57.0,61019.0,Alessio Romagnoli,4-2-3-1,Slavko Vinčič,Match Report,,14.0,4.0,18.7,0.0,0,0
+18,18,2021-11-28,15:00,Serie A,Matchweek 14,Sun,Home,L,1,3,Sassuolo,1.1,1.5,50.0,52824.0,Alessio Romagnoli,4-2-3-1,Gianluca Manganiello,Match Report,,15.0,2.0,17.3,0.0,0,0
+19,19,2021-12-01,20:45,Serie A,Matchweek 15,Wed,Away,W,3,0,Genoa,1.4,0.5,58.0,14000.0,Franck Kessié,4-2-3-1,Juan Sacchi,Match Report,,18.0,5.0,19.1,1.0,0,0
+20,20,2021-12-04,15:00,Serie A,Matchweek 16,Sat,Home,W,2,0,Salernitana,2.3,0.4,70.0,43609.0,Alessio Romagnoli,4-2-3-1,Antonio Giua,Match Report,,22.0,8.0,17.4,0.0,0,0
+21,21,2021-12-07,21:00,Champions Lg,Group stage,Tue,Home,L,1,2,eng Liverpool,1.4,1.9,48.0,56237.0,Alessio Romagnoli,4-2-3-1,Danny Makkelie,Match Report,,8.0,3.0,16.4,1.0,0,0
+22,22,2021-12-11,20:45,Serie A,Matchweek 17,Sat,Away,D,1,1,Udinese,0.9,2.4,66.0,16385.0,Alessio Romagnoli,4-2-3-1,Francesco Fourneau,Match Report,,12.0,1.0,15.1,0.0,0,0
+23,23,2021-12-19,20:45,Serie A,Matchweek 18,Sun,Home,L,0,1,Napoli,0.6,1.0,49.0,54647.0,Alessio Romagnoli,4-2-3-1,Davide Massa,Match Report,,12.0,2.0,20.2,0.0,0,0
+24,24,2021-12-22,20:45,Serie A,Matchweek 19,Wed,Away,W,4,2,Empoli,1.5,1.6,45.0,10596.0,Alessio Romagnoli,4-2-3-1,Marco Di Bello,Match Report,,18.0,8.0,18.1,2.0,0,0
+25,25,2022-01-06,18:30,Serie A,Matchweek 20,Thu,Home,W,3,1,Roma,3.2,0.7,54.0,35870.0,Theo Hernández,4-2-3-1,Daniele Chiffi,Match Report,,17.0,3.0,23.1,1.0,1,2
+26,26,2022-01-09,12:30,Serie A,Matchweek 21,Sun,Away,W,3,0,Venezia,2.9,0.5,61.0,5000.0,Theo Hernández,4-2-3-1,Massimiliano Irrati,Match Report,,17.0,6.0,17.4,1.0,1,1
+27,27,2022-01-13,21:00,Coppa Italia,Round of 16,Thu,Home,W,3,1,Genoa,,,61.0,13325.0,Theo Hernández,4-2-3-1,Gianluca Aureliano,Match Report,Required Extra Time,24.0,7.0,,,0,0
+28,28,2022-01-17,18:30,Serie A,Matchweek 22,Mon,Home,L,1,2,Spezia,3.0,1.5,60.0,5000.0,Theo Hernández,4-2-3-1,Marco Serra,Match Report,,24.0,8.0,17.7,1.0,0,1
+29,29,2022-01-23,20:45,Serie A,Matchweek 23,Sun,Home,D,0,0,Juventus,0.9,0.5,47.0,5000.0,Alessio Romagnoli,4-2-3-1,Marco Di Bello,Match Report,,14.0,4.0,22.0,1.0,0,0
+30,30,2022-02-05,18:00,Serie A,Matchweek 24,Sat,Away,W,2,1,Inter,1.4,1.1,54.0,37918.0,Alessio Romagnoli,4-2-3-1,Marco Guida,Match Report,,10.0,3.0,20.5,1.0,0,0
+31,31,2022-02-09,21:00,Coppa Italia,Quarter-finals,Wed,Home,W,4,0,Lazio,,,48.0,38000.0,Alessio Romagnoli,4-2-3-1,Simone Sozza,Match Report,,8.0,6.0,,,0,0
+32,32,2022-02-13,12:30,Serie A,Matchweek 25,Sun,Home,W,1,0,Sampdoria,1.4,0.2,50.0,35710.0,Alessio Romagnoli,4-2-3-1,Daniele Chiffi,Match Report,,15.0,7.0,15.0,0.0,0,0
+33,33,2022-02-19,20:45,Serie A,Matchweek 26,Sat,Away,D,2,2,Salernitana,2.0,1.7,60.0,18449.0,Davide Calabria,4-2-3-1,Michael Fabbri,Match Report,,13.0,5.0,19.5,1.0,0,0
+34,34,2022-02-25,18:45,Serie A,Matchweek 27,Fri,Home,D,1,1,Udinese,0.8,1.3,62.0,44588.0,Alessio Romagnoli,4-2-3-1,Matteo Marchetti,Match Report,,9.0,3.0,18.3,0.0,0,0
+35,35,2022-03-01,21:00,Coppa Italia,Semi-finals,Tue,Home,D,0,0,Inter,,,49.0,53881.0,Alessio Romagnoli,4-2-3-1,Maurizio Mariani,Match Report,Leg 1 of 2,13.0,3.0,,,0,0
+36,36,2022-03-06,20:45,Serie A,Matchweek 28,Sun,Away,W,1,0,Napoli,1.2,0.4,40.0,42000.0,Davide Calabria,4-3-3,Daniele Orsato,Match Report,,12.0,7.0,19.4,0.0,0,0
+37,37,2022-03-12,20:45,Serie A,Matchweek 29,Sat,Home,W,1,0,Empoli,0.8,0.4,53.0,48801.0,Davide Calabria,4-2-3-1,Daniele Chiffi,Match Report,,15.0,5.0,15.7,1.0,0,0
+38,38,2022-03-19,20:45,Serie A,Matchweek 30,Sat,Away,W,1,0,Cagliari,2.1,1.4,58.0,12309.0,Davide Calabria,4-2-3-1,Marco Di Bello,Match Report,,21.0,5.0,17.0,0.0,0,0
+39,39,2022-04-04,20:45,Serie A,Matchweek 31,Mon,Home,D,0,0,Bologna,2.6,0.7,53.0,68136.0,Davide Calabria,4-2-3-1,Livio Marinelli,Match Report,,33.0,7.0,18.1,0.0,0,0
+40,40,2022-04-10,20:45,Serie A,Matchweek 32,Sun,Away,D,0,0,Torino,0.8,1.1,56.0,23472.0,Davide Calabria,4-2-3-1,Daniele Doveri,Match Report,,14.0,3.0,20.3,1.0,0,0
+41,41,2022-04-15,21:00,Serie A,Matchweek 33,Fri,Home,W,2,0,Genoa,1.4,0.3,59.0,70259.0,Franck Kessié,4-3-3,Daniele Chiffi,Match Report,,10.0,5.0,14.2,0.0,0,0
+42,42,2022-04-19,21:00,Coppa Italia,Semi-finals,Tue,Away,L,0,3,Inter,,,52.0,75000.0,Davide Calabria,4-2-3-1,Maurizio Mariani,Match Report,Leg 2 of 2; Inter won,19.0,6.0,,,0,0
+43,43,2022-04-24,20:45,Serie A,Matchweek 34,Sun,Away,W,2,1,Lazio,2.6,0.5,53.0,25000.0,Davide Calabria,4-2-3-1,Marco Guida,Match Report,,25.0,8.0,18.3,2.0,0,0
+44,44,2022-05-01,15:00,Serie A,Matchweek 35,Sun,Home,W,1,0,Fiorentina,1.6,1.0,49.0,71542.0,Davide Calabria,4-2-3-1,Paolo Valeri,Match Report,,13.0,2.0,15.0,0.0,0,0
+45,45,2022-05-08,20:45,Serie A,Matchweek 36,Sun,Away,W,3,1,Hellas Verona,3.1,1.1,53.0,30154.0,Davide Calabria,4-2-3-1,Daniele Doveri,Match Report,,18.0,8.0,17.8,0.0,0,0
+46,46,2022-05-15,18:00,Serie A,Matchweek 37,Sun,Home,W,2,0,Atalanta,1.9,0.9,46.0,73304.0,Davide Calabria,4-2-3-1,Daniele Orsato,Match Report,,12.0,6.0,21.5,1.0,0,0
+47,47,2022-05-22,18:00,Serie A,Matchweek 38,Sun,Away,W,3,0,Sassuolo,3.3,0.5,47.0,21584.0,Davide Calabria,4-2-3-1,Daniele Doveri,Match Report,,18.0,11.0,14.3,0.0,0,0
+48,0,2020-09-26,20:45,Serie A,Matchweek 2,Sat,Home,W,4,3,Fiorentina,2.3,2.4,67.0,1000.0,Samir Handanović,3-4-1-2,Giampaolo Calvarese,Match Report,,21.0,8.0,18.3,0.0,0,0
+49,1,2020-09-30,18:00,Serie A,Matchweek 1,Wed,Away,W,5,2,Benevento,3.6,1.5,66.0,1000.0,Samir Handanović,3-4-1-2,Marco Piccinini,Match Report,,18.0,8.0,15.5,1.0,0,0
+50,2,2020-10-04,15:00,Serie A,Matchweek 3,Sun,Away,D,1,1,Lazio,0.6,1.2,60.0,1000.0,Samir Handanović,3-4-1-2,Marco Guida,Match Report,,12.0,3.0,16.9,0.0,0,0
+51,3,2020-10-17,18:00,Serie A,Matchweek 4,Sat,Home,L,1,2,Milan,2.8,2.1,55.0,1000.0,Samir Handanović,3-1-4-2,Maurizio Mariani,Match Report,,18.0,5.0,13.7,0.0,0,0
+52,4,2020-10-21,21:00,Champions Lg,Group stage,Wed,Home,D,2,2,de M'Gladbach,2.8,1.4,57.0,1000.0,Samir Handanović,3-4-1-2,Björn Kuipers,Match Report,,17.0,4.0,12.2,2.0,0,0
+53,5,2020-10-24,18:00,Serie A,Matchweek 5,Sat,Away,W,2,0,Genoa,1.7,0.0,60.0,1000.0,Samir Handanović,3-4-1-2,Davide Massa,Match Report,,14.0,4.0,15.5,0.0,0,0
+54,6,2020-10-27,19:55,Champions Lg,Group stage,Tue,Away,D,0,0,ua Shakhtar,1.7,0.1,59.0,10178.0,Samir Handanović,3-5-2,Georgi Kabakov,Match Report,,12.0,4.0,14.7,1.0,0,0
+55,7,2020-10-31,18:00,Serie A,Matchweek 6,Sat,Home,D,2,2,Parma,2.9,0.9,68.0,,Samir Handanović,3-4-1-2,Marco Piccinini,Match Report,,25.0,9.0,18.5,0.0,0,0
+56,8,2020-11-03,21:00,Champions Lg,Group stage,Tue,Away,L,2,3,es Real Madrid,0.7,1.2,45.0,,Samir Handanović,3-5-2,Clément Turpin,Match Report,,12.0,3.0,18.3,1.0,0,0
+57,9,2020-11-08,15:00,Serie A,Matchweek 7,Sun,Away,D,1,1,Atalanta,0.9,1.0,48.0,,Samir Handanović,3-5-2,Daniele Doveri,Match Report,,10.0,3.0,16.7,0.0,0,0
+58,10,2020-11-22,15:00,Serie A,Matchweek 8,Sun,Home,W,4,2,Torino,4.0,2.1,56.0,,Samir Handanović,3-5-2,Federico La Penna,Match Report,,12.0,3.0,14.1,0.0,1,1
+59,11,2020-11-25,21:00,Champions Lg,Group stage,Wed,Home,L,0,2,es Real Madrid,0.2,2.0,38.0,,Samir Handanović,3-5-2,Anthony Taylor,Match Report,,5.0,1.0,20.5,1.0,0,0
+60,12,2020-11-28,15:00,Serie A,Matchweek 9,Sat,Away,W,3,0,Sassuolo,1.2,0.7,35.0,,Samir Handanović,3-5-2,Massimiliano Irrati,Match Report,,11.0,4.0,17.1,0.0,0,0
+61,13,2020-12-01,21:00,Champions Lg,Group stage,Tue,Away,W,3,2,de M'Gladbach,1.6,1.3,46.0,,Samir Handanović,3-5-2,Danny Makkelie,Match Report,,15.0,4.0,14.2,0.0,0,0
+62,14,2020-12-05,20:45,Serie A,Matchweek 10,Sat,Home,W,3,1,Bologna,2.0,1.4,46.0,,Samir Handanović,3-5-2,Paolo Valeri,Match Report,,14.0,7.0,15.0,1.0,0,0
+63,15,2020-12-09,21:00,Champions Lg,Group stage,Wed,Home,D,0,0,ua Shakhtar,1.3,0.4,57.0,,Samir Handanović,3-5-2,Slavko Vinčič,Match Report,,20.0,4.0,16.5,0.0,0,0
+64,16,2020-12-13,12:45,Serie A,Matchweek 11,Sun,Away,W,3,1,Cagliari,2.8,1.6,58.0,,Samir Handanović,3-5-2,Fabrizio Pasqua,Match Report,,21.0,11.0,14.4,0.0,0,0
+65,17,2020-12-16,20:45,Serie A,Matchweek 12,Wed,Home,W,1,0,Napoli,1.2,2.2,41.0,,Samir Handanović,3-5-2,Davide Massa,Match Report,,4.0,1.0,19.1,0.0,1,1
+66,18,2020-12-20,15:00,Serie A,Matchweek 13,Sun,Home,W,2,1,Spezia,1.2,1.0,42.0,,Samir Handanović,3-5-2,Michael Fabbri,Match Report,,8.0,3.0,17.4,0.0,1,1
+67,19,2020-12-23,18:30,Serie A,Matchweek 14,Wed,Away,W,2,1,Hellas Verona,1.8,1.5,59.0,,Samir Handanović,3-4-3,Piero Giacomelli,Match Report,,18.0,5.0,15.1,0.0,0,0
+68,20,2021-01-03,12:30,Serie A,Matchweek 15,Sun,Home,W,6,2,Crotone,2.4,1.4,48.0,,Samir Handanović,3-5-2,Gianluca Aureliano,Match Report,,16.0,8.0,17.0,0.0,0,0
+69,21,2021-01-06,15:00,Serie A,Matchweek 16,Wed,Away,L,1,2,Sampdoria,2.7,1.3,63.0,,Samir Handanović,3-5-2,Paolo Valeri,Match Report,,23.0,6.0,13.5,1.0,0,1
+70,22,2021-01-10,12:30,Serie A,Matchweek 17,Sun,Away,D,2,2,Roma,1.6,0.7,50.0,,Marcelo Brozović,3-5-2,Marco Di Bello,Match Report,,17.0,6.0,12.4,0.0,0,0
+71,23,2021-01-13,15:00,Coppa Italia,Round of 16,Wed,Away,W,2,1,Fiorentina,,,55.0,,,,Davide Massa,Match Report,Required Extra Time,0.0,0.0,,,1,1
+72,24,2021-01-17,20:45,Serie A,Matchweek 18,Sun,Home,W,2,0,Juventus,1.6,0.5,49.0,,Samir Handanović,3-5-2,Daniele Doveri,Match Report,,17.0,5.0,19.3,1.0,0,0
+73,25,2021-01-23,18:00,Serie A,Matchweek 19,Sat,Away,D,0,0,Udinese,0.7,0.3,61.0,,Samir Handanović,3-5-2,Fabio Maresca,Match Report,,10.0,4.0,22.3,1.0,0,0
+74,26,2021-01-26,20:45,Coppa Italia,Quarter-finals,Tue,Home,W,2,1,Milan,,,66.0,,,,Paolo Valeri,Match Report,,27.0,10.0,,,1,1
+75,27,2021-01-30,20:45,Serie A,Matchweek 20,Sat,Home,W,4,0,Benevento,1.4,0.0,61.0,,Samir Handanović,3-5-2,Fabrizio Pasqua,Match Report,,12.0,6.0,17.8,0.0,0,0
+76,28,2021-02-02,20:45,Coppa Italia,Semi-finals,Tue,Home,L,1,2,Juventus,,,48.0,,Samir Handanović,3-5-2,Giampaolo Calvarese,Match Report,Leg 1 of 2,11.0,5.0,,,0,0
+77,29,2021-02-05,20:45,Serie A,Matchweek 21,Fri,Away,W,2,0,Fiorentina,2.2,0.6,55.0,,Samir Handanović,3-5-2,Federico La Penna,Match Report,,14.0,6.0,15.4,0.0,0,0
+78,30,2021-02-09,20:45,Coppa Italia,Semi-finals,Tue,Away,D,0,0,Juventus,,,51.0,,Samir Handanović,3-5-2,Maurizio Mariani,Match Report,Leg 2 of 2; Juventus won,21.0,3.0,,,0,0
+79,31,2021-02-14,20:45,Serie A,Matchweek 22,Sun,Home,W,3,1,Lazio,2.2,0.7,36.0,,Samir Handanović,3-5-2,Michael Fabbri,Match Report,,11.0,6.0,17.6,0.0,1,1
+80,32,2021-02-21,15:00,Serie A,Matchweek 23,Sun,Away,W,3,0,Milan,2.6,0.8,40.0,,Samir Handanović,3-5-2,Daniele Doveri,Match Report,,16.0,6.0,15.1,0.0,0,0
+81,33,2021-02-28,15:00,Serie A,Matchweek 24,Sun,Home,W,3,0,Genoa,2.7,0.1,51.0,,Samir Handanović,3-5-2,Daniele Chiffi,Match Report,,24.0,12.0,15.9,0.0,0,0
+82,34,2021-03-04,20:45,Serie A,Matchweek 25,Thu,Away,W,2,1,Parma,2.9,0.8,47.0,,Samir Handanović,3-5-2,Fabrizio Pasqua,Match Report,,11.0,6.0,10.9,0.0,0,0
+83,35,2021-03-08,20:45,Serie A,Matchweek 26,Mon,Home,W,1,0,Atalanta,0.2,0.9,44.0,,Samir Handanović,3-5-2,Maurizio Mariani,Match Report,,5.0,1.0,17.4,0.0,0,0
+84,36,2021-03-14,15:00,Serie A,Matchweek 27,Sun,Away,W,2,1,Torino,2.5,0.9,68.0,,Samir Handanović,3-5-2,Paolo Valeri,Match Report,,12.0,2.0,15.3,0.0,1,1
+85,37,2021-04-03,20:45,Serie A,Matchweek 29,Sat,Away,W,1,0,Bologna,1.9,1.1,44.0,,Samir Handanović,3-5-2,Piero Giacomelli,Match Report,,14.0,3.0,18.1,3.0,0,0
+86,38,2021-04-07,18:45,Serie A,Matchweek 28,Wed,Home,W,2,1,Sassuolo,1.1,0.7,30.0,,Samir Handanović,3-5-2,Massimiliano Irrati,Match Report,,7.0,2.0,13.7,0.0,0,0
+87,39,2021-04-11,12:30,Serie A,Matchweek 30,Sun,Home,W,1,0,Cagliari,1.2,0.3,53.0,,Samir Handanović,3-5-2,Luca Pairetto,Match Report,,15.0,7.0,18.8,0.0,0,0
+88,40,2021-04-18,20:45,Serie A,Matchweek 31,Sun,Away,D,1,1,Napoli,0.9,0.7,44.0,,Samir Handanović,3-5-2,Daniele Doveri,Match Report,,10.0,2.0,16.9,1.0,0,0
+89,41,2021-04-21,20:45,Serie A,Matchweek 32,Wed,Away,D,1,1,Spezia,3.1,0.0,64.0,,Samir Handanović,3-5-2,Daniele Chiffi,Match Report,,20.0,5.0,13.9,0.0,0,0
+90,42,2021-04-25,15:00,Serie A,Matchweek 33,Sun,Home,W,1,0,Hellas Verona,0.9,1.3,49.0,,Samir Handanović,3-5-2,Rosario Abisso,Match Report,,12.0,3.0,20.4,2.0,0,0
+91,43,2021-05-01,18:00,Serie A,Matchweek 34,Sat,Away,W,2,0,Crotone,2.4,0.8,62.0,,Samir Handanović,3-5-2,Alessandro Prontera,Match Report,,23.0,5.0,16.0,1.0,0,0
+92,44,2021-05-08,18:00,Serie A,Matchweek 35,Sat,Home,W,5,1,Sampdoria,1.9,1.5,55.0,,Samir Handanović,3-5-2,Giovanni Ayroldi,Match Report,,13.0,6.0,18.9,0.0,1,1
+93,45,2021-05-12,20:45,Serie A,Matchweek 36,Wed,Home,W,3,1,Roma,1.7,0.9,52.0,,Andrea Ranocchia,3-5-2,Daniele Chiffi,Match Report,,14.0,5.0,17.8,2.0,0,0
+94,46,2021-05-15,18:00,Serie A,Matchweek 37,Sat,Away,L,2,3,Juventus,1.4,2.8,59.0,,Samir Handanović,3-5-2,Giampaolo Calvarese,Match Report,,7.0,2.0,18.9,1.0,1,1
+95,47,2021-05-23,15:00,Serie A,Matchweek 38,Sun,Home,W,5,1,Udinese,3.0,1.3,48.0,1000.0,Samir Handanović,3-5-2,Manuel Volpi,Match Report,,14.0,6.0,17.1,2.0,1,1
+96,0,2019-08-24,18:00,Serie A,Matchweek 1,Sat,Away,W,1,0,Parma,1.4,0.3,61.0,20073.0,Giorgio Chiellini,4-3-3,Fabio Maresca,Match Report,,14.0,4.0,17.9,1.0,0,0
+97,1,2019-08-31,20:45,Serie A,Matchweek 2,Sat,Home,W,4,3,Napoli,1.8,1.4,45.0,39203.0,Leonardo Bonucci,4-3-3,Daniele Orsato,Match Report,,12.0,7.0,17.9,0.0,0,0
+98,2,2019-09-14,15:00,Serie A,Matchweek 3,Sat,Away,D,0,0,Fiorentina,0.4,1.8,53.0,40000.0,Leonardo Bonucci,4-4-2,Massimiliano Irrati,Match Report,,8.0,4.0,24.7,1.0,0,0
+99,3,2019-09-18,21:00,Champions Lg,Group stage,Wed,Away,D,2,2,es Atlético Madrid,1.1,2.3,54.0,66283.0,Leonardo Bonucci,4-3-3,Danny Makkelie,Match Report,,11.0,5.0,18.6,0.0,0,0
+100,4,2019-09-21,18:00,Serie A,Matchweek 4,Sat,Home,W,2,1,Hellas Verona,1.9,1.6,59.0,39945.0,Leonardo Bonucci,4-3-3,Federico La Penna,Match Report,,20.0,2.0,20.9,1.0,1,1
+101,5,2019-09-24,21:00,Serie A,Matchweek 5,Tue,Away,W,2,1,Brescia,1.7,0.7,67.0,14000.0,Leonardo Bonucci,4-1-2-1-2◆,Fabrizio Pasqua,Match Report,,20.0,5.0,17.4,2.0,0,0
+102,6,2019-09-28,15:00,Serie A,Matchweek 6,Sat,Home,W,2,0,SPAL,2.0,0.2,67.0,38995.0,Leonardo Bonucci,4-1-2-1-2◆,Marco Piccinini,Match Report,,21.0,10.0,17.4,1.0,0,0
+103,7,2019-10-01,21:00,Champions Lg,Group stage,Tue,Home,W,3,0,de Leverkusen,1.2,0.5,46.0,34525.0,Leonardo Bonucci,4-3-1-2,William Collum,Match Report,,11.0,7.0,18.0,0.0,0,0
+104,8,2019-10-06,20:45,Serie A,Matchweek 7,Sun,Away,W,2,1,Inter,1.5,1.6,49.0,75923.0,Leonardo Bonucci,4-3-1-2,Gianluca Rocchi,Match Report,,18.0,6.0,20.2,2.0,0,0
+105,9,2019-10-19,20:45,Serie A,Matchweek 8,Sat,Home,W,2,1,Bologna,2.0,0.9,65.0,40461.0,Leonardo Bonucci,4-3-1-2,Massimiliano Irrati,Match Report,,23.0,10.0,17.3,1.0,0,0
+106,10,2019-10-22,21:00,Champions Lg,Group stage,Tue,Home,W,2,1,ru Loko Moscow,2.4,0.7,77.0,38547.0,Leonardo Bonucci,4-3-1-2,Tasos Sidiropoulos,Match Report,,28.0,7.0,20.3,3.0,0,0
+107,11,2019-10-26,15:00,Serie A,Matchweek 9,Sat,Away,D,1,1,Lecce,3.6,1.1,70.0,26591.0,Leonardo Bonucci,4-3-1-2,Paolo Valeri,Match Report,,24.0,3.0,16.3,0.0,1,1
+108,12,2019-10-30,21:00,Serie A,Matchweek 10,Wed,Home,W,2,1,Genoa,2.7,0.4,54.0,38732.0,Leonardo Bonucci,4-3-1-2,Antonio Giua,Match Report,,26.0,10.0,21.0,0.0,1,1
+109,13,2019-11-02,20:45,Serie A,Matchweek 11,Sat,Away,W,1,0,Torino,1.2,0.4,58.0,26664.0,Leonardo Bonucci,4-3-1-2,Daniele Doveri,Match Report,,19.0,10.0,17.2,1.0,0,0
+110,14,2019-11-06,20:55,Champions Lg,Group stage,Wed,Away,W,2,1,ru Loko Moscow,2.4,2.4,68.0,26862.0,Leonardo Bonucci,4-3-1-2,Ruddy Buquet,Match Report,,17.0,9.0,17.9,2.0,0,0
+111,15,2019-11-10,20:45,Serie A,Matchweek 12,Sun,Home,W,1,0,Milan,1.0,0.8,54.0,40478.0,Leonardo Bonucci,4-3-1-2,Fabio Maresca,Match Report,,13.0,5.0,17.5,0.0,0,0
+112,16,2019-11-23,15:00,Serie A,Matchweek 13,Sat,Away,W,3,1,Atalanta,1.2,2.7,53.0,20899.0,Leonardo Bonucci,4-3-1-2,Gianluca Rocchi,Match Report,,16.0,5.0,22.1,3.0,0,0
+113,17,2019-11-26,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,es Atlético Madrid,0.4,0.7,58.0,40486.0,Leonardo Bonucci,4-1-2-1-2◆,Anthony Taylor,Match Report,,6.0,2.0,18.4,1.0,0,0
+114,18,2019-12-01,12:30,Serie A,Matchweek 14,Sun,Home,D,2,2,Sassuolo,4.6,0.7,56.0,40597.0,Leonardo Bonucci,4-3-1-2,Federico La Penna,Match Report,,28.0,8.0,17.3,3.0,1,1
+115,19,2019-12-07,20:45,Serie A,Matchweek 15,Sat,Away,L,1,3,Lazio,1.6,3.0,60.0,65000.0,Leonardo Bonucci,4-3-1-2,Michael Fabbri,Match Report,,9.0,4.0,19.0,1.0,0,0
+116,20,2019-12-11,21:00,Champions Lg,Group stage,Wed,Away,W,2,0,de Leverkusen,0.9,2.2,46.0,29542.0,Miralem Pjanić,4-3-1-2,Benoît Bastien,Match Report,,6.0,2.0,15.8,0.0,0,0
+117,21,2019-12-15,15:00,Serie A,Matchweek 16,Sun,Home,W,3,1,Udinese,1.6,1.4,65.0,39127.0,Leonardo Bonucci,4-3-1-2,Fabrizio Pasqua,Match Report,,24.0,9.0,18.3,0.0,0,0
+118,22,2019-12-18,18:55,Serie A,Matchweek 17,Wed,Away,W,2,1,Sampdoria,0.9,0.7,70.0,23136.0,Leonardo Bonucci,4-3-1-2,Gianluca Rocchi,Match Report,,11.0,4.0,17.2,0.0,0,0
+119,23,2019-12-22,19:45,Supercoppa Italiana,Supercoppa Italiana,Sun,Neutral,L,1,3,Lazio,,,65.0,23361.0,Leonardo Bonucci,4-3-1-2,Giampaolo Calvarese,Match Report,,16.0,4.0,,,0,0
+120,24,2020-01-06,15:00,Serie A,Matchweek 18,Mon,Home,W,4,0,Cagliari,2.8,0.6,64.0,40598.0,Leonardo Bonucci,4-3-1-2,Piero Giacomelli,Match Report,,19.0,8.0,20.5,2.0,1,1
+121,25,2020-01-12,20:45,Serie A,Matchweek 19,Sun,Away,W,2,1,Roma,1.4,2.6,47.0,60513.0,Leonardo Bonucci,4-3-1-2,Marco Guida,Match Report,,4.0,3.0,13.3,0.0,1,1
+122,26,2020-01-15,20:45,Coppa Italia,Round of 16,Wed,Home,W,4,0,Udinese,,,61.0,39524.0,Paulo Dybala,4-3-3,Gianluca Aureliano,Match Report,,20.0,8.0,,,2,2
+123,27,2020-01-19,20:45,Serie A,Matchweek 20,Sun,Home,W,2,1,Parma,1.2,0.3,63.0,37790.0,Leonardo Bonucci,4-3-1-2,Marco Di Bello,Match Report,,17.0,5.0,16.7,0.0,0,0
+124,28,2020-01-22,20:45,Coppa Italia,Quarter-finals,Wed,Home,W,3,1,Roma,,,52.0,40791.0,Leonardo Bonucci,4-3-3,Gianluca Rocchi,Match Report,,13.0,5.0,,,0,0
+125,29,2020-01-26,20:45,Serie A,Matchweek 21,Sun,Away,L,1,2,Napoli,1.0,1.4,49.0,39111.0,Leonardo Bonucci,4-3-1-2,Maurizio Mariani,Match Report,,8.0,4.0,15.9,0.0,0,0
+126,30,2020-02-02,12:30,Serie A,Matchweek 22,Sun,Home,W,3,0,Fiorentina,2.9,0.8,74.0,40171.0,Leonardo Bonucci,4-3-3,Fabrizio Pasqua,Match Report,,13.0,6.0,17.5,1.0,2,2
+127,31,2020-02-08,20:45,Serie A,Matchweek 23,Sat,Away,L,1,2,Hellas Verona,0.9,1.9,53.0,28654.0,Leonardo Bonucci,4-3-3,Davide Massa,Match Report,,15.0,3.0,21.0,0.0,0,0
+128,32,2020-02-13,20:45,Coppa Italia,Semi-finals,Thu,Away,D,1,1,Milan,,,62.0,72738.0,Leonardo Bonucci,4-3-3,Paolo Valeri,Match Report,Leg 1 of 2,14.0,4.0,,,1,1
+129,33,2020-02-16,15:00,Serie A,Matchweek 24,Sun,Home,W,2,0,Brescia,2.6,0.3,68.0,40841.0,Leonardo Bonucci,4-3-3,Daniele Chiffi,Match Report,,27.0,8.0,18.0,2.0,0,0
+130,34,2020-02-22,18:00,Serie A,Matchweek 25,Sat,Away,W,2,1,SPAL,2.0,1.2,55.0,15262.0,Giorgio Chiellini,4-4-2,Federico La Penna,Match Report,,20.0,6.0,19.6,3.0,0,0
+131,35,2020-02-26,21:00,Champions Lg,Round of 16,Wed,Away,L,0,1,fr Lyon,1.1,1.1,64.0,57335.0,Leonardo Bonucci,4-3-3,Jesús Gil,Match Report,Leg 1 of 2,14.0,0.0,19.6,2.0,0,0
+132,36,2020-03-08,20:45,Serie A,Matchweek 26,Sun,Home,W,2,0,Inter,1.1,0.6,54.0,,Leonardo Bonucci,4-3-3,Marco Guida,Match Report,,17.0,5.0,18.8,2.0,0,0
+133,37,2020-06-12,21:00,Coppa Italia,Semi-finals,Fri,Home,D,0,0,Milan,,,64.0,,Leonardo Bonucci,4-3-3,Daniele Orsato,Match Report,Leg 2 of 2; Juventus won,26.0,7.0,,,0,1
+134,38,2020-06-17,21:00,Coppa Italia,Final,Wed,Away,D,0 (2),0 (4),Napoli,,,54.0,,Leonardo Bonucci,4-3-3,Daniele Doveri,Match Report,Napoli won on penalty kicks following extra time,13.0,3.0,,,0,0
+135,39,2020-06-22,21:45,Serie A,Matchweek 27,Mon,Away,W,2,0,Bologna,1.7,0.8,52.0,,Leonardo Bonucci,4-3-3,Gianluca Rocchi,Match Report,,13.0,2.0,22.2,2.0,1,1
+136,40,2020-06-26,21:45,Serie A,Matchweek 28,Fri,Home,W,4,0,Lecce,3.9,0.3,64.0,,Leonardo Bonucci,4-3-3,Marco Piccinini,Match Report,,25.0,11.0,18.7,0.0,1,1
+137,41,2020-06-30,21:45,Serie A,Matchweek 29,Tue,Away,W,3,1,Genoa,0.8,0.2,63.0,,Leonardo Bonucci,4-3-3,Giampaolo Calvarese,Match Report,,18.0,9.0,20.9,1.0,0,0
+138,42,2020-07-04,17:15,Serie A,Matchweek 30,Sat,Home,W,4,1,Torino,1.7,1.7,52.0,,Leonardo Bonucci,4-3-3,Fabio Maresca,Match Report,,22.0,7.0,19.6,2.0,0,0
+139,43,2020-07-07,21:45,Serie A,Matchweek 31,Tue,Away,L,2,4,Milan,1.4,2.2,51.0,,Leonardo Bonucci,4-3-3,Marco Guida,Match Report,,14.0,4.0,17.0,0.0,0,0
+140,44,2020-07-11,21:45,Serie A,Matchweek 32,Sat,Home,D,2,2,Atalanta,2.0,0.7,49.0,,Leonardo Bonucci,4-3-3,Piero Giacomelli,Match Report,,7.0,3.0,25.9,1.0,2,2
+141,45,2020-07-15,21:45,Serie A,Matchweek 33,Wed,Away,D,3,3,Sassuolo,2.6,2.5,43.0,,Giorgio Chiellini,4-3-3,Paolo Valeri,Match Report,,21.0,5.0,18.1,2.0,0,0
+142,46,2020-07-20,21:45,Serie A,Matchweek 34,Mon,Home,W,2,1,Lazio,3.3,1.4,55.0,,Leonardo Bonucci,4-3-3,Daniele Orsato,Match Report,,18.0,6.0,16.9,0.0,1,1
+143,47,2020-07-23,19:30,Serie A,Matchweek 35,Thu,Away,L,1,2,Udinese,0.7,1.1,60.0,,Paulo Dybala,4-3-3,Massimiliano Irrati,Match Report,,21.0,5.0,24.3,0.0,0,0
+144,48,2020-07-26,21:45,Serie A,Matchweek 36,Sun,Home,W,2,0,Sampdoria,3.0,1.7,62.0,,Leonardo Bonucci,4-3-3,Francesco Fourneau,Match Report,,15.0,6.0,17.1,1.0,0,1
+145,49,2020-07-29,21:45,Serie A,Matchweek 37,Wed,Away,L,0,2,Cagliari,1.7,1.1,66.0,,Leonardo Bonucci,4-3-3,Davide Ghersini,Match Report,,34.0,10.0,22.3,3.0,0,0
+146,50,2020-08-01,20:45,Serie A,Matchweek 38,Sat,Home,L,1,3,Roma,1.2,1.7,57.0,,Leonardo Bonucci,4-3-3,Gianluca Rocchi,Match Report,,11.0,2.0,16.7,1.0,0,0
+147,51,2020-08-07,21:00,Champions Lg,Round of 16,Fri,Home,W,2,1,fr Lyon,2.6,1.0,62.0,,Leonardo Bonucci,4-4-2,Felix Zwayer,Match Report,Leg 2 of 2; Lyon won,15.0,4.0,19.2,5.0,1,1
+148,0,2018-08-18,18:00,Serie A,Matchweek 1,Sat,Away,W,3,2,Chievo,3.1,1.1,72.0,29500.0,Giorgio Chiellini,4-2-3-1,Fabrizio Pasqua,Match Report,,27.0,10.0,17.1,1.0,0,0
+149,1,2018-08-25,18:00,Serie A,Matchweek 2,Sat,Home,W,2,0,Lazio,1.6,0.3,55.0,40171.0,Giorgio Chiellini,4-3-3,Massimiliano Irrati,Match Report,,16.0,7.0,19.2,1.0,0,0
+150,2,2018-09-01,20:30,Serie A,Matchweek 3,Sat,Away,W,2,1,Parma,2.3,1.9,65.0,20814.0,Giorgio Chiellini,4-3-3,Daniele Doveri,Match Report,,24.0,6.0,18.8,2.0,0,0
+151,3,2018-09-16,15:00,Serie A,Matchweek 4,Sun,Home,W,2,1,Sassuolo,2.4,0.8,43.0,40563.0,Sami Khedira,4-3-1-2,Daniele Chiffi,Match Report,,18.0,4.0,15.7,1.0,0,0
+152,4,2018-09-19,21:00,Champions Lg,Group stage,Wed,Away,W,2,0,es Valencia,3.7,2.0,46.0,46067.0,Giorgio Chiellini,4-3-3,Felix Brych,Match Report,,8.0,3.0,16.3,0.0,2,2
+153,5,2018-09-23,20:30,Serie A,Matchweek 5,Sun,Away,W,2,0,Frosinone,3.0,0.1,72.0,16000.0,Giorgio Chiellini,4-3-3,Piero Giacomelli,Match Report,,29.0,7.0,19.0,2.0,0,0
+154,6,2018-09-26,21:00,Serie A,Matchweek 6,Wed,Home,W,2,0,Bologna,1.1,0.3,76.0,38472.0,Andrea Barzagli,3-5-1-1,Maurizio Mariani,Match Report,,15.0,8.0,20.7,1.0,0,0
+155,7,2018-09-29,18:00,Serie A,Matchweek 7,Sat,Home,W,3,1,Napoli,2.8,1.5,51.0,39252.0,Giorgio Chiellini,4-3-1-2,Luca Banti,Match Report,,17.0,9.0,16.9,1.0,0,0
+156,8,2018-10-02,18:55,Champions Lg,Group stage,Tue,Home,W,3,0,ch Young Boys,3.3,0.2,60.0,40961.0,Andrea Barzagli,3-4-1-2,Sergey Karasev,Match Report,,17.0,8.0,17.4,1.0,0,0
+157,9,2018-10-06,18:00,Serie A,Matchweek 8,Sat,Away,W,2,0,Udinese,2.3,0.7,60.0,25000.0,Giorgio Chiellini,4-3-3,Rosario Abisso,Match Report,,21.0,7.0,15.7,0.0,0,0
+158,10,2018-10-20,18:00,Serie A,Matchweek 9,Sat,Home,D,1,1,Genoa,1.8,1.0,63.0,37735.0,Leonardo Bonucci,4-3-3,Federico La Penna,Match Report,,21.0,3.0,17.8,0.0,0,0
+159,11,2018-10-23,20:00,Champions Lg,Group stage,Tue,Away,W,1,0,eng Manchester Utd,1.3,0.3,60.0,73946.0,Giorgio Chiellini,4-4-2,Danilo Grujić,Match Report,,14.0,5.0,16.7,1.0,0,0
+160,12,2018-10-27,18:00,Serie A,Matchweek 10,Sat,Away,W,2,1,Empoli,1.7,0.3,57.0,15889.0,Paulo Dybala,4-4-2,Giampaolo Calvarese,Match Report,,19.0,6.0,20.3,1.0,1,1
+161,13,2018-11-03,20:30,Serie A,Matchweek 11,Sat,Home,W,3,1,Cagliari,1.8,0.7,53.0,40644.0,Paulo Dybala,4-3-3,Maurizio Mariani,Match Report,,16.0,3.0,16.4,1.0,0,0
+162,14,2018-11-07,21:00,Champions Lg,Group stage,Wed,Home,L,1,2,eng Manchester Utd,1.9,0.8,55.0,41470.0,Giorgio Chiellini,4-4-2,Ovidiu Hațegan,Match Report,,23.0,3.0,20.1,1.0,0,0
+163,15,2018-11-11,20:30,Serie A,Matchweek 12,Sun,Away,W,2,0,Milan,1.3,0.9,59.0,74729.0,Giorgio Chiellini,4-3-3,Paolo Mazzoleni,Match Report,,15.0,6.0,19.2,2.0,0,0
+164,16,2018-11-24,18:00,Serie A,Matchweek 13,Sat,Home,W,2,0,SPAL,1.6,0.5,45.0,41052.0,Mario Mandžukić,4-4-2,Federico La Penna,Match Report,,15.0,7.0,19.2,0.0,0,0
+165,17,2018-11-27,21:00,Champions Lg,Group stage,Tue,Home,W,1,0,es Valencia,1.8,0.3,56.0,39070.0,Giorgio Chiellini,4-3-3,William Collum,Match Report,,20.0,6.0,18.8,1.0,0,0
+166,18,2018-12-01,18:00,Serie A,Matchweek 14,Sat,Away,W,3,0,Fiorentina,1.7,1.3,54.0,40872.0,Giorgio Chiellini,4-2-3-1,Daniele Orsato,Match Report,,15.0,5.0,23.1,4.0,1,1
+167,19,2018-12-07,20:30,Serie A,Matchweek 15,Fri,Home,W,1,0,Inter,1.5,1.0,50.0,41495.0,Giorgio Chiellini,4-3-3,Massimiliano Irrati,Match Report,,18.0,5.0,17.2,1.0,0,0
+168,20,2018-12-12,21:00,Champions Lg,Group stage,Wed,Away,L,1,2,ch Young Boys,2.1,1.2,60.0,30114.0,Mario Mandžukić,4-3-3,Tobias Stieler,Match Report,,25.0,6.0,17.0,1.0,0,0
+169,21,2018-12-15,20:30,Serie A,Matchweek 16,Sat,Away,W,1,0,Torino,1.6,0.5,58.0,26588.0,Giorgio Chiellini,4-3-3,Marco Guida,Match Report,,11.0,3.0,19.8,1.0,1,1
+170,22,2018-12-22,20:30,Serie A,Matchweek 17,Sat,Home,W,1,0,Roma,1.5,0.4,50.0,40069.0,Giorgio Chiellini,4-3-3,Davide Massa,Match Report,,20.0,6.0,16.6,0.0,0,0
+171,23,2018-12-26,15:00,Serie A,Matchweek 18,Wed,Away,D,2,2,Atalanta,1.1,1.4,49.0,19787.0,Giorgio Chiellini,4-3-3,Luca Banti,Match Report,,12.0,2.0,18.5,0.0,0,0
+172,24,2018-12-29,12:30,Serie A,Matchweek 19,Sat,Home,W,2,1,Sampdoria,1.4,1.7,55.0,40641.0,Giorgio Chiellini,4-3-3,Paolo Valeri,Match Report,,16.0,7.0,20.6,0.0,1,1
+173,25,2019-01-12,20:45,Coppa Italia,Round of 16,Sat,Away,W,2,0,Bologna,,,,15469.0,,,Federico La Penna,Match Report,,,,,,0,0
+174,26,2019-01-16,20:30,Supercoppa Italiana,Supercoppa Italiana,Wed,Neutral,W,1,0,Milan,,,62.0,61235.0,Giorgio Chiellini,4-3-3,Luca Banti,Match Report,,18.0,3.0,,,0,0
+175,27,2019-01-21,20:30,Serie A,Matchweek 20,Mon,Home,W,3,0,Chievo,3.2,0.5,61.0,30239.0,Giorgio Chiellini,4-4-2,Marco Piccinini,Match Report,,25.0,9.0,20.1,0.0,0,1
+176,28,2019-01-27,20:30,Serie A,Matchweek 21,Sun,Away,W,2,1,Lazio,1.2,1.6,53.0,60687.0,Paulo Dybala,4-3-2-1,Marco Guida,Match Report,,5.0,2.0,20.4,0.0,1,1
+177,29,2019-01-30,20:45,Coppa Italia,Quarter-finals,Wed,Away,L,0,3,Atalanta,,,,18438.0,,,Fabrizio Pasqua,Match Report,,,,,,0,0
+178,30,2019-02-02,20:30,Serie A,Matchweek 22,Sat,Home,D,3,3,Parma,1.9,1.2,68.0,39548.0,Mario Mandžukić,4-3-3,Piero Giacomelli,Match Report,,28.0,7.0,18.7,1.0,0,0
+179,31,2019-02-10,18:00,Serie A,Matchweek 23,Sun,Away,W,3,0,Sassuolo,1.6,0.4,51.0,21584.0,Mario Mandžukić,4-4-2,Paolo Mazzoleni,Match Report,,14.0,5.0,15.7,1.0,0,0
+180,32,2019-02-15,20:30,Serie A,Matchweek 24,Fri,Home,W,3,0,Frosinone,1.7,0.8,60.0,10570.0,Giorgio Chiellini,4-3-1-2,Antonio Giua,Match Report,,18.0,9.0,18.0,2.0,0,0
+181,33,2019-02-20,21:00,Champions Lg,Round of 16,Wed,Away,L,0,2,es Atlético Madrid,0.7,1.4,63.0,67193.0,Giorgio Chiellini,4-3-3,Felix Zwayer,Match Report,Leg 1 of 2,14.0,2.0,21.7,1.0,0,0
+182,34,2019-02-24,15:00,Serie A,Matchweek 25,Sun,Away,W,1,0,Bologna,0.6,1.2,50.0,28934.0,Mario Mandžukić,4-3-3,Giampaolo Calvarese,Match Report,,7.0,4.0,14.1,0.0,0,0
+183,35,2019-03-03,20:30,Serie A,Matchweek 26,Sun,Away,W,2,1,Napoli,0.3,2.1,37.0,42667.0,Giorgio Chiellini,4-4-2,Gianluca Rocchi,Match Report,,6.0,3.0,20.4,1.0,0,0
+184,36,2019-03-08,20:30,Serie A,Matchweek 27,Fri,Home,W,4,1,Udinese,2.3,0.2,61.0,39987.0,Andrea Barzagli,3-4-3,Daniele Chiffi,Match Report,,16.0,5.0,17.1,0.0,1,1
+185,37,2019-03-12,21:00,Champions Lg,Round of 16,Tue,Home,W,3,0,es Atlético Madrid,2.5,0.4,62.0,40884.0,Giorgio Chiellini,3-4-1-2,Björn Kuipers,Match Report,Leg 2 of 2; Juventus won,15.0,3.0,17.0,2.0,1,1
+186,38,2019-03-17,12:30,Serie A,Matchweek 28,Sun,Away,L,0,2,Genoa,0.3,1.3,59.0,30695.0,Paulo Dybala,3-1-4-2,Marco Di Bello,Match Report,,6.0,0.0,16.4,0.0,0,0
+187,39,2019-03-30,18:00,Serie A,Matchweek 29,Sat,Home,W,1,0,Empoli,1.5,0.3,43.0,39290.0,Giorgio Chiellini,4-4-2,Federico La Penna,Match Report,,15.0,3.0,19.2,1.0,0,0
+188,40,2019-04-02,21:00,Serie A,Matchweek 30,Tue,Away,W,2,0,Cagliari,2.5,0.5,55.0,15958.0,Giorgio Chiellini,3-4-3,Piero Giacomelli,Match Report,,17.0,6.0,15.5,1.0,0,0
+189,41,2019-04-06,18:00,Serie A,Matchweek 31,Sat,Home,W,2,1,Milan,1.9,1.3,47.0,40057.0,Mario Mandžukić,3-5-2,Michael Fabbri,Match Report,,11.0,4.0,15.0,0.0,1,1
+190,42,2019-04-10,21:00,Champions Lg,Quarter-finals,Wed,Away,D,1,1,nl Ajax,0.7,1.2,39.0,50390.0,Mario Mandžukić,4-3-3,Carlos del Cerro,Match Report,Leg 1 of 2,7.0,1.0,17.5,0.0,0,0
+191,43,2019-04-13,15:00,Serie A,Matchweek 32,Sat,Away,L,1,2,SPAL,0.5,1.2,57.0,16000.0,Andrea Barzagli,3-5-2,Daniele Doveri,Match Report,,11.0,3.0,21.1,0.0,0,0
+192,44,2019-04-16,21:00,Champions Lg,Quarter-finals,Tue,Home,L,1,2,nl Ajax,0.8,2.2,51.0,41445.0,Paulo Dybala,4-4-2,Clément Turpin,Match Report,Leg 2 of 2; Ajax won,13.0,3.0,18.6,1.0,0,0
+193,45,2019-04-20,18:00,Serie A,Matchweek 33,Sat,Home,W,2,1,Fiorentina,1.0,1.5,60.0,40339.0,Leonardo Bonucci,4-4-2,Fabrizio Pasqua,Match Report,,18.0,4.0,19.6,0.0,0,0
+194,46,2019-04-27,20:30,Serie A,Matchweek 34,Sat,Away,D,1,1,Inter,0.6,1.1,46.0,73855.0,Giorgio Chiellini,4-4-2,Luca Banti,Match Report,,10.0,3.0,23.6,0.0,0,0
+195,47,2019-05-03,20:30,Serie A,Matchweek 35,Fri,Home,D,1,1,Torino,1.5,0.6,58.0,38530.0,Giorgio Chiellini,4-4-2,Daniele Orsato,Match Report,,16.0,4.0,17.6,0.0,0,0
+196,48,2019-05-12,20:30,Serie A,Matchweek 36,Sun,Away,L,0,2,Roma,1.0,1.4,63.0,50825.0,Giorgio Chiellini,4-4-2,Davide Massa,Match Report,,7.0,4.0,16.3,0.0,0,0
+197,49,2019-05-19,20:30,Serie A,Matchweek 37,Sun,Home,D,1,1,Atalanta,1.0,1.3,63.0,39531.0,Andrea Barzagli,4-4-2,Gianluca Rocchi,Match Report,,15.0,4.0,20.2,1.0,0,0
+198,50,2019-05-26,18:00,Serie A,Matchweek 38,Sun,Away,L,0,2,Sampdoria,0.5,0.7,47.0,22856.0,Giorgio Chiellini,4-4-2,Luigi Nasca,Match Report,,11.0,1.0,21.4,0.0,0,0
+199,0,2017-08-13,20:45,Supercoppa Italiana,Supercoppa Italiana,Sun,Neutral,L,2,3,Lazio,,,59.0,52000.0,Gianluigi Buffon,4-2-3-1,Davide Massa,Match Report,,15.0,7.0,,,1,1
+200,1,2017-08-19,18:00,Serie A,Matchweek 1,Sat,Home,W,3,0,Cagliari,1.1,1.4,62.0,39226.0,Gianluigi Buffon,4-2-3-1,Fabio Maresca,Match Report,,17.0,7.0,19.8,2.0,0,0
+201,2,2017-08-26,18:00,Serie A,Matchweek 2,Sat,Away,W,4,2,Genoa,2.1,1.2,57.0,26296.0,Gianluigi Buffon,4-2-3-1,Luca Banti,Match Report,,16.0,6.0,17.7,2.0,1,1
+202,3,2017-09-09,18:00,Serie A,Matchweek 3,Sat,Home,W,3,0,Chievo,1.3,0.6,58.0,39457.0,Stephan Lichtsteiner,4-3-3,Michael Fabbri,Match Report,,15.0,4.0,17.5,0.0,0,0
+203,4,2017-09-12,20:45,Champions Lg,Group stage,Tue,Away,L,0,3,es Barcelona,0.7,0.9,37.0,78656.0,Gianluigi Buffon,4-2-3-1,Damir Skomina,Match Report,,13.0,6.0,20.0,0.0,0,0
+204,5,2017-09-17,12:30,Serie A,Matchweek 4,Sun,Away,W,3,1,Sassuolo,1.0,1.4,62.0,21584.0,Gianluigi Buffon,4-2-3-1,Davide Massa,Match Report,,14.0,6.0,20.2,1.0,0,0
+205,6,2017-09-20,20:45,Serie A,Matchweek 5,Wed,Home,W,1,0,Fiorentina,0.9,0.4,60.0,35652.0,Andrea Barzagli,4-2-3-1,Daniele Doveri,Match Report,,12.0,5.0,22.6,1.0,0,0
+206,7,2017-09-23,20:45,Serie A,Matchweek 6,Sat,Home,W,4,0,Torino,2.2,0.2,66.0,40856.0,Gianluigi Buffon,4-4-2,Piero Giacomelli,Match Report,,23.0,9.0,18.2,1.0,0,0
+207,8,2017-09-27,20:45,Champions Lg,Group stage,Wed,Home,W,2,0,gr Olympiacos,2.3,0.5,75.0,33460.0,Gianluigi Buffon,4-2-3-1,Tobias Stieler,Match Report,,22.0,6.0,14.9,4.0,0,0
+208,9,2017-10-01,20:45,Serie A,Matchweek 7,Sun,Away,D,2,2,Atalanta,2.7,1.1,58.0,19962.0,Gianluigi Buffon,4-2-3-1,Antonio Damato,Match Report,,16.0,7.0,19.6,1.0,0,1
+209,10,2017-10-14,18:00,Serie A,Matchweek 8,Sat,Home,L,1,2,Lazio,2.3,1.6,60.0,39145.0,Gianluigi Buffon,4-3-3,Paolo Mazzoleni,Match Report,,17.0,5.0,21.6,0.0,0,1
+210,11,2017-10-18,20:45,Champions Lg,Group stage,Wed,Home,W,2,1,pt Sporting CP,1.5,0.5,55.0,36288.0,Gianluigi Buffon,4-2-3-1,Michael Oliver,Match Report,,18.0,8.0,15.4,1.0,0,0
+211,12,2017-10-22,18:00,Serie A,Matchweek 9,Sun,Away,W,6,2,Udinese,1.7,1.1,44.0,21992.0,Gianluigi Buffon,4-2-3-1,Daniele Doveri,Match Report,,13.0,5.0,16.1,1.0,0,0
+212,13,2017-10-25,20:45,Serie A,Matchweek 10,Wed,Home,W,4,1,SPAL,1.1,0.8,69.0,38539.0,Andrea Barzagli,4-2-3-1,Fabrizio Pasqua,Match Report,,16.0,6.0,17.7,1.0,0,0
+213,14,2017-10-28,18:00,Serie A,Matchweek 11,Sat,Away,W,2,0,Milan,0.4,1.0,46.0,78328.0,Gianluigi Buffon,4-2-3-1,Paolo Valeri,Match Report,,9.0,4.0,22.7,1.0,0,0
+214,15,2017-10-31,19:45,Champions Lg,Group stage,Tue,Away,D,1,1,pt Sporting CP,2.0,0.5,66.0,48442.0,Gianluigi Buffon,4-2-3-1,Clément Turpin,Match Report,,16.0,5.0,19.0,0.0,0,0
+215,16,2017-11-05,15:00,Serie A,Matchweek 12,Sun,Home,W,2,1,Benevento,2.9,0.1,66.0,39125.0,Giorgio Chiellini,4-2-3-1,Rosario Abisso,Match Report,,27.0,8.0,18.4,5.0,0,0
+216,17,2017-11-19,15:00,Serie A,Matchweek 13,Sun,Away,L,2,3,Sampdoria,2.0,1.6,53.0,28786.0,Giorgio Chiellini,4-2-3-1,Marco Guida,Match Report,,17.0,3.0,20.4,1.0,1,1
+217,18,2017-11-22,20:45,Champions Lg,Group stage,Wed,Home,D,0,0,es Barcelona,0.5,0.9,37.0,40876.0,Gianluigi Buffon,4-2-3-1,Milorad Mažić,Match Report,,10.0,3.0,18.5,0.0,0,0
+218,19,2017-11-26,20:45,Serie A,Matchweek 14,Sun,Home,W,3,0,Crotone,2.2,0.1,80.0,35585.0,Gianluigi Buffon,3-4-3,Claudio Gavillucci,Match Report,,25.0,10.0,18.5,1.0,0,0
+219,20,2017-12-01,20:45,Serie A,Matchweek 15,Fri,Away,W,1,0,Napoli,1.0,0.8,33.0,55567.0,Gianluigi Buffon,4-4-1-1,Daniele Orsato,Match Report,,7.0,4.0,17.4,0.0,0,0
+220,21,2017-12-05,21:45,Champions Lg,Group stage,Tue,Away,W,2,0,gr Olympiacos,1.5,1.0,62.0,29567.0,Andrea Barzagli,4-2-3-1,David Fernández,Match Report,,8.0,5.0,15.4,0.0,0,0
+221,22,2017-12-09,20:45,Serie A,Matchweek 16,Sat,Home,D,0,0,Inter,1.1,0.3,52.0,41418.0,Giorgio Chiellini,4-3-3,Paolo Valeri,Match Report,,19.0,7.0,19.6,1.0,0,0
+222,23,2017-12-17,15:00,Serie A,Matchweek 17,Sun,Away,W,3,0,Bologna,0.6,0.2,59.0,29270.0,Andrea Barzagli,4-3-3,Luca Banti,Match Report,,12.0,7.0,18.5,1.0,0,0
+223,24,2017-12-20,20:45,Coppa Italia,Round of 16,Wed,Home,W,2,0,Genoa,,,58.0,39969.0,,,Fabio Maresca,Match Report,,19.0,7.0,,,0,0
+224,25,2017-12-23,20:45,Serie A,Matchweek 18,Sat,Home,W,1,0,Roma,2.0,2.1,43.0,41100.0,Giorgio Chiellini,4-3-3,Paolo Tagliavento,Match Report,,22.0,8.0,18.9,0.0,0,0
+225,26,2017-12-30,20:45,Serie A,Matchweek 19,Sat,Away,W,3,1,Hellas Verona,1.3,0.1,67.0,29215.0,Giorgio Chiellini,4-3-3,Paolo Mazzoleni,Match Report,,18.0,9.0,17.8,2.0,0,0
+226,27,2018-01-03,20:45,Coppa Italia,Quarter-finals,Wed,Home,W,2,0,Torino,,,63.0,37763.0,,,Daniele Doveri,Match Report,,13.0,6.0,,,0,0
+227,28,2018-01-06,20:45,Serie A,Matchweek 20,Sat,Away,W,1,0,Cagliari,1.5,0.5,60.0,16233.0,Giorgio Chiellini,4-3-2-1,Giampaolo Calvarese,Match Report,,16.0,2.0,19.5,2.0,0,0
+228,29,2018-01-22,20:45,Serie A,Matchweek 21,Mon,Home,W,1,0,Genoa,1.4,0.3,53.0,29412.0,Giorgio Chiellini,4-3-3,Marco Di Bello,Match Report,,15.0,5.0,19.7,1.0,0,0
+229,30,2018-01-27,20:45,Serie A,Matchweek 22,Sat,Away,W,2,0,Chievo,1.0,0.1,76.0,23700.0,Andrea Barzagli,4-3-3,Fabio Maresca,Match Report,,16.0,7.0,19.3,1.0,0,0
+230,31,2018-01-30,20:45,Coppa Italia,Semi-finals,Tue,Away,W,1,0,Atalanta,,,46.0,16406.0,,,Paolo Valeri,Match Report,Leg 1 of 2,13.0,1.0,,,0,0
+231,32,2018-02-04,15:00,Serie A,Matchweek 23,Sun,Home,W,7,0,Sassuolo,2.3,0.3,62.0,40400.0,Gianluigi Buffon,4-3-3,Piero Giacomelli,Match Report,,17.0,10.0,18.0,1.0,0,0
+232,33,2018-02-09,20:45,Serie A,Matchweek 24,Fri,Away,W,2,0,Fiorentina,0.5,1.1,39.0,32563.0,Gianluigi Buffon,4-3-3,Marco Guida,Match Report,,4.0,3.0,20.3,1.0,0,0
+233,34,2018-02-13,20:45,Champions Lg,Round of 16,Tue,Home,D,2,2,eng Tottenham,2.5,1.8,34.0,41232.0,Gianluigi Buffon,4-2-3-1,Felix Brych,Match Report,Leg 1 of 2,7.0,4.0,19.3,0.0,1,2
+234,35,2018-02-18,12:30,Serie A,Matchweek 25,Sun,Away,W,1,0,Torino,1.4,0.3,50.0,27000.0,Giorgio Chiellini,4-3-3,Daniele Orsato,Match Report,,7.0,3.0,17.1,1.0,0,0
+235,36,2018-02-28,17:30,Coppa Italia,Semi-finals,Wed,Home,W,1,0,Atalanta,,,45.0,38417.0,,,Michael Fabbri,Match Report,Leg 2 of 2; Juventus won,9.0,3.0,,,1,1
+236,37,2018-03-03,18:00,Serie A,Matchweek 27,Sat,Away,W,1,0,Lazio,0.8,0.2,59.0,50000.0,Gianluigi Buffon,3-5-2,Luca Banti,Match Report,,6.0,1.0,17.3,0.0,0,0
+237,38,2018-03-07,19:45,Champions Lg,Round of 16,Wed,Away,W,2,1,eng Tottenham,1.5,1.7,45.0,84010.0,Gianluigi Buffon,4-1-2-1-2◆,Szymon Marciniak,Match Report,Leg 2 of 2; Juventus won,8.0,3.0,15.3,0.0,0,0
+238,39,2018-03-11,15:00,Serie A,Matchweek 28,Sun,Home,W,2,0,Udinese,1.8,0.2,54.0,40300.0,Giorgio Chiellini,4-2-3-1,Piero Giacomelli,Match Report,,10.0,3.0,16.4,1.0,0,1
+239,40,2018-03-14,18:00,Serie A,Matchweek 26,Wed,Home,W,2,0,Atalanta,1.5,0.4,51.0,36753.0,Gianluigi Buffon,4-2-3-1,Maurizio Mariani,Match Report,,15.0,3.0,15.9,1.0,0,0
+240,41,2018-03-17,20:45,Serie A,Matchweek 29,Sat,Away,D,0,0,SPAL,0.8,0.1,64.0,13135.0,Gianluigi Buffon,4-2-3-1,Davide Massa,Match Report,,12.0,3.0,20.9,1.0,0,0
+241,42,2018-03-31,20:45,Serie A,Matchweek 30,Sat,Home,W,3,1,Milan,0.6,0.9,52.0,41156.0,Gianluigi Buffon,3-5-2,Paolo Mazzoleni,Match Report,,7.0,4.0,19.2,1.0,0,0
+242,43,2018-04-03,20:45,Champions Lg,Quarter-finals,Tue,Home,L,0,3,es Real Madrid,1.6,3.1,44.0,40849.0,Gianluigi Buffon,4-4-2,Cüneyt Çakιr,Match Report,Leg 1 of 2,12.0,2.0,20.4,2.0,0,0
+243,44,2018-04-07,15:00,Serie A,Matchweek 31,Sat,Away,W,4,2,Benevento,2.5,1.8,56.0,16867.0,Claudio Marchisio,4-4-1-1,Fabrizio Pasqua,Match Report,,13.0,3.0,24.2,2.0,2,2
+244,45,2018-04-11,20:45,Champions Lg,Quarter-finals,Wed,Away,W,3,1,es Real Madrid,2.7,2.7,39.0,75796.0,Gianluigi Buffon,4-3-3,Michael Oliver,Match Report,Leg 2 of 2; Real Madrid won,11.0,6.0,15.7,0.0,0,0
+245,46,2018-04-15,18:00,Serie A,Matchweek 32,Sun,Home,W,3,0,Sampdoria,2.1,1.0,50.0,40121.0,Gianluigi Buffon,4-4-1-1,Maurizio Mariani,Match Report,,16.0,5.0,16.9,0.0,0,0
+246,47,2018-04-18,20:45,Serie A,Matchweek 33,Wed,Away,D,1,1,Crotone,0.7,0.7,73.0,15021.0,Claudio Marchisio,4-3-3,Michael Fabbri,Match Report,,13.0,4.0,14.0,0.0,0,0
+247,48,2018-04-22,20:45,Serie A,Matchweek 34,Sun,Home,L,0,1,Napoli,0.3,0.8,40.0,40114.0,Gianluigi Buffon,4-2-3-1,Gianluca Rocchi,Match Report,,4.0,0.0,14.1,1.0,0,0
+248,49,2018-04-28,20:45,Serie A,Matchweek 35,Sat,Away,W,3,2,Inter,1.2,0.4,56.0,78328.0,Gianluigi Buffon,4-3-3,Daniele Orsato,Match Report,,13.0,4.0,18.7,2.0,0,0
+249,50,2018-05-05,20:45,Serie A,Matchweek 36,Sat,Home,W,3,1,Bologna,2.4,1.2,66.0,40714.0,Gianluigi Buffon,3-5-1-1,Massimiliano Irrati,Match Report,,15.0,6.0,13.5,0.0,0,0
+250,51,2018-05-09,21:00,Coppa Italia,Final,Wed,Neutral,W,4,0,Milan,,,49.0,66400.0,,,Antonio Damato,Match Report,,17.0,10.0,,,0,0
+251,52,2018-05-13,20:45,Serie A,Matchweek 37,Sun,Away,D,0,0,Roma,0.3,0.4,53.0,53091.0,Andrea Barzagli,4-2-3-1,Paolo Tagliavento,Match Report,,7.0,0.0,25.5,1.0,0,0
+252,53,2018-05-19,15:00,Serie A,Matchweek 38,Sat,Home,W,2,1,Hellas Verona,2.4,0.4,66.0,40380.0,Gianluigi Buffon,4-3-3,Riccardo Pinzani,Match Report,,25.0,12.0,22.3,2.0,0,1
