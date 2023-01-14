@@ -46,6 +46,7 @@ resources = {
 
 money = 0
 last_change = 0
+transaction_done = False
 
 
 def print_report():
@@ -70,6 +71,7 @@ def check_resources(coffee_type):
 
 def coin_process(coffee_type):
     global last_change
+    global transaction_done
     if check_resources(coffee_type):
         print(f"You selected {coffee_type} and it costs {MENU[coffee_type]['cost']}$")
         print(f"Current deposit: ${last_change}")
@@ -78,16 +80,33 @@ def coin_process(coffee_type):
         dims = input('How many dimes?: ') or 0
         nickles = input('How many nickles?: ') or 0
         pennies = input('How many pennies?: ') or 0
-        paid_money = (float(quarters) * 0.25 + float(dims) * 0.1 + float(nickles) * 0.05 + float(pennies) * 0.01 + last_change)
+        paid_money = (float(quarters) * 0.25 + float(dims) * 0.1 + float(nickles) * 0.05 + float(pennies) * 0.01
+                      + last_change)
+        more = round(MENU[coffee_type]["cost"] - paid_money, 2)
         if paid_money < MENU[coffee_type]['cost']:
-            print(f'Sorry, not enough money. You need {MENU[coffee_type]["cost"]-paid_money}$ more')
-            return False
+            print(f'Sorry, not enough money. You need {more}$ more')
+            action = input('Do you want to refund or deposit the coins? (refund/deposit): ')
+            if action == 'refund':
+                last_change = 0
+                return False
+            elif action == 'deposit':
+                print('Coins deposited, please make your choice again')
+                last_change = paid_money
+                transaction_done = True
+                return True
         else:
+            print(f"That is your {coffee_type} ☕. Enjoy!")
             last_change = round(paid_money - MENU[coffee_type]['cost'], 2)
             resources['water'] = resources['water'] - MENU[coffee_type]['ingredients']['water']
             resources['milk'] = resources['milk'] - MENU[coffee_type]['ingredients']['milk']
             resources['coffee'] = resources['coffee'] - MENU[coffee_type]['ingredients']['coffee']
-            return True
+            transaction_done = True
+        if transaction_done:
+            next_coffee = input('Do you would like to proceed with next transaction? (Yes/No): ')
+            if next_coffee == 'Yes':
+                transaction_done = False
+            elif next_coffee == 'No':
+                print('Thank you and have a good day!')
 
 
 def coffee_machine():
@@ -100,9 +119,14 @@ def coffee_machine():
             enough_resources = check_resources(coffee_type)
             if enough_resources:
                 if coin_process(coffee_type):
-                    print(f"That is your {coffee_type} ☕. Enjoy!")
+                    # print(f"That is your {coffee_type} ☕. Enjoy!")
+                    next_coffee = input('Do you would like to proceed with next transaction? (Yes/No): ')
+                    if next_coffee == 'No':
+                        print(f"Your change is {last_change}")
+                        break
                 else:
                     print('Transaction failed')
+                    next_coffee = input('Do you would like to proceed with next transaction? (Yes/No): ')
             else:
                 print('Transaction failed')
             next_coffee = input('Do you would like to proceed with next transaction? (Yes/No): ')
