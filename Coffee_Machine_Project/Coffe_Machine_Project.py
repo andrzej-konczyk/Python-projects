@@ -164,7 +164,7 @@ def coffee_machine():
                 print('Transaction failed')
             next_coffee = input('Do you would like to proceed with next transaction? (Yes/No): ')
             if next_coffee == 'No':
-                print('Thank you and have a good day!')
+                print('Thank you and have a good day! Your coins are refunded')
                 break
             else:
                 if next_coffee == 'No':
