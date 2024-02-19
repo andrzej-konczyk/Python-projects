@@ -17,7 +17,6 @@ class IdeaGeneratorApp:
         return idea
 
     def display_images(self, idea):
-        # Usunięcie poprzednich dzieci z images_frame
         for child in images_frame.winfo_children():
             child.destroy()
             
