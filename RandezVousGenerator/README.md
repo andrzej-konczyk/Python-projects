@@ -12,7 +12,7 @@ RandezVous Generator is a fun and innovative date idea generator application des
 - Compatible with multiple platforms, ensuring accessibility for all users.
 
 ## Installation
-To install RandezVous Generator, simply download the latest release from the: https://drive.google.com/file/d/1-fCdtfq0QU-gqsxMKVkXNdUNQku-AiU7/view section.
+To install RandezVous Generator, simply download the latest release from the: https://drive.google.com/file/d/1dB-GnEjLWzvOKVjGcbnUj1JHxDryLSRG/view?usp=drive_link section.
 
 ## Usage
 Once installed, launch RandezVous Generator and click the "Generate Idea" button to get started. Explore the generated date ideas and accompanying images, and choose the one that suits you best!
